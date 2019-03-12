@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4612e3cd-f920-4581-a04d-2a35fbf6260e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/recipe-app-api.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/manage.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
@@ -27,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="120">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -78,6 +88,12 @@
             <path>
               <item name="recipe" type="b2602c69:ProjectViewProjectNode" />
               <item name="recipe" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recipe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recipe" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -171,8 +187,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="120">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
