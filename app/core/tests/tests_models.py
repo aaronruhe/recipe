@@ -27,3 +27,14 @@ class ModelTests(TestCase):
         with self.assertRaises(
                 ValueError):  # anything that we run in here should raise the value error else test will fail
             get_user_model().objects.create_user(None, '12345')
+
+    def test_create_new_super_user(self):
+        """Test create a new super user"""
+
+        user = get_user_model().objects.create_superuser(
+            'test@test.com',
+            'test1234'
+        )
+
+        self.assertTrue(user.is_superuser)
+        self.assertTrue(user.is_staff)
